@@ -29,22 +29,22 @@ Split Dataset into training and testing
 ## Machine Learning Models
 
 1. Stock Sector Comparison
-    -Create supervised learning model (logistic regression)
-    -Train
-    -Predict (classification)
-    -Validate (accuracy)
+    - Create supervised learning model (logistic regression)
+    - Train
+    - Predict (classification)
+    - Validate (accuracy)
 
 2. ESG (environmental, social, governance) Stock Performance
-    -Create unsupervised learning model (k-means)
-    -Train (principal component analysis)
-    -Predict (determine pattern)
-    -Create 3D scatter plot with the PCA data and clusters
+    - Create unsupervised learning model (k-means)
+    - Train (principal component analysis)
+    - Predict (determine pattern)
+    - Create 3D scatter plot with the PCA data and clusters
 
 3. Investor Sentiment
-    -Create natural language processing model
-    -Train
-    -Predict (positive, negative, and neutral scoring)
-    -Validate
+    - Create natural language processing model
+    - Train
+    - Predict (positive, negative, and neutral scoring)
+    - Validate
 
 
 
