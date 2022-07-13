@@ -17,14 +17,14 @@ The collaborators of this project share an interest and curiosity about all thin
 The collaborators of this project have kept very open lines of communication, both through slack and zoom.  Each team member has been excellent about being at meetings and understand that if one or more team members is unable to attend, they can be briefed and brought up to speed when they are available.  
 
 ## Data Selection and ETL
-Data Extraction
-Data Transformation
-Data Storage - Postgres/AWS RDS
+ Data Extraction
+ Data Transformation
+ Data Storage - Postgres/AWS RDS
 
 ## Clean and Preprocessing Data
-Import Dependencies
-Load Dataset
-Split Dataset into training and testing
+ Import Dependencies
+ Load Dataset
+ Split Dataset into training and testing
 
 ## Machine Learning Models
 
