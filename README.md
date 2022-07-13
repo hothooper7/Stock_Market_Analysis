@@ -18,23 +18,23 @@ The collaborators of this project have kept very open lines of communication, bo
 
 ## Machine Learning Models
 
-- Stock Sector Comparison
-    Create supervised learning model (logistic regression)
-    Train
-    Predict (classification)
-    Validate (accuracy)
+1. Stock Sector Comparison
+    -Create supervised learning model (logistic regression)
+    -Train
+    -Predict (classification)
+    -Validate (accuracy)
 
-- ESG (environmental, social, governance) Stock Performance
-    Create unsupervised learning model (k-means)
-    Train (principal component analysis)
-    Predict (determine pattern)
-    Create 3D scatter plot with the PCA data and clusters
+2. ESG (environmental, social, governance) Stock Performance
+    -Create unsupervised learning model (k-means)
+    -Train (principal component analysis)
+    -Predict (determine pattern)
+    -Create 3D scatter plot with the PCA data and clusters
 
-- Investor Sentiment
-    Create natural language processing model
-    Train
-    Predict (positive, negative, and neutral scoring)
-    Validate
+3. Investor Sentiment
+    -Create natural language processing model
+    -Train
+    -Predict (positive, negative, and neutral scoring)
+    -Validate
 
 
 
