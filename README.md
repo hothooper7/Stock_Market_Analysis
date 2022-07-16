@@ -18,7 +18,7 @@ The collaborators of this project have kept very open lines of communication, bo
 
 ## Data Selection and ETL
     - Data Extraction
-    - Data Transformation
+    - Data Transformation    
     - Data Storage - Postgres/AWS RDS
 
 ## Clean and Preprocessing Data
