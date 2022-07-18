@@ -15,5 +15,6 @@
 	###Created notebook with a dataframe (for all stock tickers that can be filtered by ticker symbol and dates)
 
 	###Completed database in PostgreSQL and identified each of the variables in our database as float64
+	
 
 
