@@ -1,6 +1,6 @@
 # Recent Stock Market Analysis
 
-There have been two major downturns in the stock market since March of 2020.  This project will create and train a model that will look for key factors in each downturn and answer the following questions.
+There have been two major downturns in the stock market since January of 2020.  This project will create and train a model that will look for key factors in each downturn and answer the following questions.
 
     1. Which sectors of the stock market were affected the most during the downturns?  
     2. Which sectors of the stock market were affected the least during the downturns? 
@@ -17,14 +17,14 @@ The collaborators of this project share an interest and curiosity about all thin
 The collaborators of this project have kept very open lines of communication, both through slack and zoom.  Each team member has been excellent about being at meetings and understand that if one or more team members is unable to attend, they can be briefed and brought up to speed when they are available.  
 
 ## Data Selection and ETL
- Data Extraction
- Data Transformation
- Data Storage - Postgres/AWS RDS
+    - Data Extraction
+    - Data Transformation
+    - Data Storage - Postgres/AWS RDS
 
 ## Clean and Preprocessing Data
- Import Dependencies
- Load Dataset
- Split Dataset into training and testing
+    - Import Dependencies
+    - Load Dataset
+    - Split Dataset into training and testing
 
 ## Machine Learning Models
 
