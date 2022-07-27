@@ -38,6 +38,11 @@ The collaborators of this project have kept very open lines of communication, bo
 
 ![](Images/Refining%20Machine%20Learning%20Model%20Graphic.jpg)    
 
+
+## Correlation Plot - All Companies
+
+![](Images/Correlation%20Plot%20-%20All%20Companies.jpg)
+
 2. ESG (environmental, social, governance) Stock Performance
     - Create unsupervised learning model (k-means)
     - Train (principal component analysis)
