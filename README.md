@@ -25,6 +25,10 @@ The collaborators of this project have kept very open lines of communication, bo
 
 ## Clean and Preprocessing Data
     - Import Dependencies
+
+![](Images/Importing%20Dependencies.jpeg)   
+
+
     - Load Dataset
     - Split Dataset into training and testing
 
