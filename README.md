@@ -21,6 +21,10 @@ The collaborators of this project have kept very open lines of communication, bo
     - Data Transformation
     - Data Storage - Postgres/AWS RDS
 
+    
+![](../../Preparing%20the%20Data%20Screenshot.png)
+
+
 ## Clean and Preprocessing Data
     - Import Dependencies
     - Load Dataset
