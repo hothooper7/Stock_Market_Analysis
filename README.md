@@ -36,6 +36,8 @@ The collaborators of this project have kept very open lines of communication, bo
     - Predict (classification)
     - Validate (accuracy)
 
+![](Images/Refining%20Machine%20Learning%20Model%20Graphic.jpg)    
+
 2. ESG (environmental, social, governance) Stock Performance
     - Create unsupervised learning model (k-means)
     - Train (principal component analysis)
