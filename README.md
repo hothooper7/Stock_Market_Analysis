@@ -21,8 +21,14 @@ The collaborators of this project have kept very open lines of communication, bo
     - Data Transformation
     - Data Storage - Postgres/AWS RDS
 
+![](Images/Preparing%20the%20Data%20Screenshot.png)
+
 ## Clean and Preprocessing Data
     - Import Dependencies
+
+![](Images/Importing%20Dependencies.jpeg)   
+
+
     - Load Dataset
     - Split Dataset into training and testing
 
@@ -33,6 +39,13 @@ The collaborators of this project have kept very open lines of communication, bo
     - Train
     - Predict (classification)
     - Validate (accuracy)
+
+![](Images/Refining%20Machine%20Learning%20Model%20Graphic.jpg)    
+
+
+## Correlation Plot - All Companies
+
+![](Images/Correlation%20Plot%20-%20All%20Companies.jpg)
 
 2. ESG (environmental, social, governance) Stock Performance
     - Create unsupervised learning model (k-means)
