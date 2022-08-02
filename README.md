@@ -1,10 +1,11 @@
 # Recent Stock Market Analysis
 
-There have been two major downturns in the stock market since January of 2020.  This project will create and train a model that will look for key factors in each downturn and answer the following questions.
+There have been two major downturns in the stock market since January of 2020.  This project will create and train a model that will look for key factors in each downturn and answer the following questions.  The two timeframes that will be analyzed are January 1st, 2020 - March 31st, 2021 and February 1st, 2021 to present day.  Click [here](https://datastudio.google.com/u/0/reporting/3839631d-25c2-4c34-ae4e-b9892ab8318c/page/ZaJyC) to view our project dashboard and final results.  
 
     1. Which sectors of the stock market were affected the most during the downturns?  
     2. Which sectors of the stock market were affected the least during the downturns? 
     3. Given all of the conditions that have affected the stock market since 2020, how have ESG (environmental, social, governance) or “socially responsible” stocks performed in comparison to other stocks?
+    4. Can we build a model that predicts future stock prices?
 
 ## Reason for selecting this topic
 
