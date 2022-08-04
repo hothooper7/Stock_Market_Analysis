@@ -1,11 +1,12 @@
 # Recent Stock Market Analysis
 
-There have been two major downturns in the stock market since January of 2020.  This project will create and train a model that will look for key factors in each downturn and answer the following questions.  The two timeframes that will be analyzed are January 1st, 2020 - March 31st, 2021 and February 1st, 2021 to present day.  Click [here](https://datastudio.google.com/u/0/reporting/3839631d-25c2-4c34-ae4e-b9892ab8318c/page/ZaJyC) to view our project dashboard and final results.  
+There have been two major downturns in the stock market since January of 2020.  This project will create and train a model that will look for key factors in each downturn and answer the following questions. 
 
     1. Which sectors of the stock market were affected the most during the downturns?  
     2. Which sectors of the stock market were affected the least during the downturns? 
-    3. Given all of the conditions that have affected the stock market since 2020, how have ESG (environmental, social, governance) or “socially responsible” stocks performed in comparison to other stocks?
-    4. Can we build a model that predicts future stock prices?
+    3. Can we build a model that predicts future stock prices?
+
+ The two timeframes that will be analyzed are January 1st, 2020 - March 31st, 2021 and February 1st, 2021 to present day.  Click [here](https://datastudio.google.com/u/0/reporting/3839631d-25c2-4c34-ae4e-b9892ab8318c/page/ZaJyC) to view our project dashboard and final results.  
 
 ## Reason for selecting this topic
 
@@ -16,6 +17,10 @@ The collaborators of this project share an interest and curiosity about all thin
 ## Communication Protocols
 
 The collaborators of this project have kept very open lines of communication, both through slack and zoom.  Each team member has been excellent about being at meetings and understand that if one or more team members is unable to attend, they can be briefed and brought up to speed when they are available.  
+
+## Presentation
+
+Click [here](https://docs.google.com/presentation/d/1LjcrpeH6ecapKAlXiK4k5eG0fN_msCrwEcSfes1-bZw/edit#slide=id.p) for a link to the Google Slides presentation.
 
 ## Data Selection and ETL
     - Data Extraction
@@ -48,17 +53,7 @@ The collaborators of this project have kept very open lines of communication, bo
 
 ![](Images/Correlation%20Plot%20-%20All%20Companies.jpg)
 
-2. ESG (environmental, social, governance) Stock Performance
-    - Create unsupervised learning model (k-means)
-    - Train (principal component analysis)
-    - Predict (determine pattern)
-    - Create 3D scatter plot with the PCA data and clusters
 
-3. Investor Sentiment
-    - Create natural language processing model
-    - Train
-    - Predict (positive, negative, and neutral scoring)
-    - Validate
 
 
 
