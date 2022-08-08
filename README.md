@@ -14,9 +14,6 @@ A vast amount of information is available regarding all facets of the stock mark
 
 The collaborators of this project share an interest and curiosity about all things as they relate to the stock market.  This interest combined with the available data lead to the selection of this project.  
 
-## Communication Protocols
-
-The collaborators of this project have kept very open lines of communication, both through slack and zoom.  Each team member has been excellent about being at meetings and understand that if one or more team members is unable to attend, they can be briefed and brought up to speed when they are available.  
 
 ## Presentation
 
