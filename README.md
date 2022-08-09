@@ -6,7 +6,7 @@ There have been two major downturns in the stock market since January of 2020.  
     2. Which sectors of the stock market were affected the least during the downturns? 
     3. Can we build a model that predicts future stock prices?
 
- The two timeframes that will be analyzed are January 1st, 2020 - March 31st, 2021 and February 1st, 2021 to present day.  Click [here](https://datastudio.google.com/u/0/reporting/3839631d-25c2-4c34-ae4e-b9892ab8318c/page/ZaJyC) to view our project dashboard and final results.  
+ The two timeframes that will be analyzed are January 1st, 2020 - March 31st, 2021 and April 1st, 2021 to present day.  Click [here](https://datastudio.google.com/u/0/reporting/3839631d-25c2-4c34-ae4e-b9892ab8318c/page/ZaJyC) to view our project dashboard and final results.  
 
 ## Reason for selecting this topic
 
@@ -26,14 +26,9 @@ Click [here](https://docs.google.com/presentation/d/1LjcrpeH6ecapKAlXiK4k5eG0fN_
 
 ![](Images/Preparing%20the%20Data%20Screenshot.png)
 
-## Clean and Preprocessing Data
-    - Import Dependencies
+## Database Connection, Retrieval, and Machine Learning
 
-![](Images/Importing%20Dependencies.jpeg)   
-
-
-    - Load Dataset
-    - Split Dataset into training and testing
+Amazon AWS and PostgreSQL were used for the database during this project.  To view the final code and machine learning models, please click [here](https://github.com/hothooper7/Stock_Market_Analysis/blob/main/Final%20Production%20Ready%20Code/Stocks_ML_Supervised_Unsupervised_Final.ipynb)
 
 ## Machine Learning Models
 
