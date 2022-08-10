@@ -28,7 +28,7 @@ Click [here](https://docs.google.com/presentation/d/1LjcrpeH6ecapKAlXiK4k5eG0fN_
 
 ## Database Connection, Retrieval, and Machine Learning
 
-Amazon AWS and PostgreSQL were used for the database during this project.  To view the final code and machine learning models, please click [here](https://github.com/hothooper7/Stock_Market_Analysis/blob/main/Final%20Production%20Ready%20Code/Stocks_ML_Supervised_Unsupervised_Final.ipynb)
+Amazon AWS and PostgreSQL were used for the database during this project.  To view the final code and machine learning models, please click [here](https://github.com/hothooper7/Stock_Market_Analysis/blob/main/Final%20Production%20Ready%20Code/Stock_ML_DeepLearning_LSTM_Modeling_Final.ipynb)
 
 ## Machine Learning Models
 
